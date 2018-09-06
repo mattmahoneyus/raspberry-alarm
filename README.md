@@ -1,6 +1,6 @@
 # Raspberry Pi 3 Alarm Fun Project
-Fun project for learning Raspberry Pi 3 gpiozero and other interesting Python modules such as texting, taking pictures, and emailing
-There a pleanty of project examples on the web to learn the gpiozero wire-ups.
+Fun project for learning Raspberry Pi 3 gpiozero and other interesting Python modules such as texting, taking pictures, and emailing.
+There are pleanty of project examples on the web to learn the gpiozero wire-ups.
 
 Try it. Make it better!
 
